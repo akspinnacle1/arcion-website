@@ -1495,13 +1495,6 @@ html{
         display:block !important;
     }
 
-    .logo img{
-
-        height:42px;
-
-        width:auto;
-    }
-    
     .about-link{
         display:none;
     }
