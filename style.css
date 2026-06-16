@@ -1510,6 +1510,14 @@ html{
         margin-top:4px;
     }
 
+    .logo img{
+
+        height:35px;
+
+        width:auto;
+    }
+    
+    
     .hero-buttons{
 
         display:flex;
