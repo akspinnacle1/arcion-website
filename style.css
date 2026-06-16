@@ -1495,9 +1495,9 @@ html{
         display:block !important;
     }
 
-    logo img{
+    .logo img{
 
-        height:35px;
+        height:42px;
 
         width:auto;
     }
