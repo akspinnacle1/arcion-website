@@ -1495,6 +1495,13 @@ html{
         display:block !important;
     }
 
+    logo img{
+
+        height:35px;
+
+        width:auto;
+    }
+    
     .about-link{
         display:none;
     }
@@ -1510,12 +1517,7 @@ html{
         margin-top:4px;
     }
 
-    .logo img{
 
-        height:35px;
-
-        width:auto;
-    }
     
     
     .hero-buttons{
