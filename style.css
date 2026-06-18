@@ -6,10 +6,12 @@
 
 body{
     font-family:'Poppins',sans-serif;
+    overflow-x:hidden;
 }
 
 html{
     scroll-behavior:smooth;
+     overflow-x:hidden;
 }
 
 /* NAVBAR WRAPPER */
@@ -1456,6 +1458,21 @@ html{
 
     .mobile-rnd{
         display:block !important;
+    }
+
+    .about-arcion{
+
+        display:grid;
+
+        grid-template-columns:
+        repeat(2,1fr);
+
+        gap:12px;
+    }
+
+    .about-main-card{
+
+        grid-column:1 / -1;
     }
 }
 
